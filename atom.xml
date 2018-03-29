@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>oyghan</title>
+  
+  
+  <link href="/public/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-29T14:25:37.097Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Github Pages</title>
+    <link href="http://yoursite.com/2015/12/31/hello-world/"/>
+    <id>http://yoursite.com/2015/12/31/hello-world/</id>
+    <published>2015-12-31T06:49:13.000Z</published>
+    <updated>2018-03-29T14:25:37.097Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个是我第一次体验github pages &amp; hexo 模式的博客，哈哈！有点小激动~~</p><a id="more"></a><p>以后会不定期地更新这博客，欢迎大家一起讨论!<br>维吾尔文博客地址 <a href="https://learnfans.com" target="_blank" rel="noopener">Learnfans.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这个是我第一次体验github pages &amp;amp; hexo 模式的博客，哈哈！有点小激动~~&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
