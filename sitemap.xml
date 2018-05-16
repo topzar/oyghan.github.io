@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/05/16/laravel-homestead-multi-sites/</loc>
+    
+    <lastmod>2018-05-16T06:41:14.055Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/12/31/hello-world/</loc>
     
     <lastmod>2018-03-29T14:25:37.097Z</lastmod>
